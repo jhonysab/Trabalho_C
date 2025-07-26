@@ -1,4 +1,4 @@
-# Trabalho_C
+# Calculadoras_C
 # Programas realizados afim de resolver problemas especificos elaborados em aula, para a pratica da linguagem C.
 
 ## A "calculadora.c":
