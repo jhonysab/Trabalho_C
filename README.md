@@ -1,2 +1,11 @@
 # Trabalho_C
-Programas criados na linguagem C, afim de resolver problemas matematicos. Uma calculadora com diversas operações e um programa de numero primo pede um numero e verifica se ele é primo, se ele for tem q mostrar sinalizar que é primo e mostrar os 3 sucessores primos dele.
+# Programas realizados afim de resolver problemas especificos elaborados em aula, para a pratica da linguagem C.
+
+## A "calculadora.c":
+É uma calculadora de uso normal criada para atender operações simples matemáticas, como: SOMA, SUBTRAÇÃO, DIVISÃO, MULTIPLICAÇÃO, RAIZ QUADRADA e POTENCIAÇÃO.
+
+## A "calculadora2.c":
+Já vai um pouco além, melhor usada para mais de 1 operação, pois ela permite continuar com o valor da operação anterior, possibilitando resolver expressões maiores mais facilmente.
+
+## O "num primo.c":
+É um programa que verifica se um numero inteiro é primo e imprime os 3 próximos números primos desse numero inteiro.
